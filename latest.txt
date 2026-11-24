@@ -1,0 +1,5 @@
+version=1.10.0
+net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/CheckLinks-releases/main/v1.10.0/CheckLinks_net48.dll|e2e9a5d2f5e9dd137f1ee3cda4151b3723b2fccd423dd55af44d4d1ad528f537
+net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/CheckLinks-releases/main/v1.10.0/CheckLinks_net8.dll|0649d0407fdf6ac2ce11d0e7ce1c6a4d49b7fcffa096a0f4fbc561f3baf69d1c
+note=Automatic updates from GitHub: new versions download in the background and are used at the next click (no setup needed).
+note=Opens your hosted Segregation Manager (ibrahimhassansm-lgtm.github.io/model-segregation-manager) instead of the Claude one. The address can be changed under Options › App.
