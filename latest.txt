@@ -1,5 +1,4 @@
-version=1.10.0
-net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/CheckLinks-releases/main/v1.10.0/CheckLinks_net48.dll|e2e9a5d2f5e9dd137f1ee3cda4151b3723b2fccd423dd55af44d4d1ad528f537
-net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/CheckLinks-releases/main/v1.10.0/CheckLinks_net8.dll|0649d0407fdf6ac2ce11d0e7ce1c6a4d49b7fcffa096a0f4fbc561f3baf69d1c
-note=Automatic updates from GitHub: new versions download in the background and are used at the next click (no setup needed).
-note=Opens your hosted Segregation Manager (ibrahimhassansm-lgtm.github.io/model-segregation-manager) instead of the Claude one. The address can be changed under Options › App.
+version=1.11.0
+net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/CheckLinks-releases/main/v1.11.0/CheckLinks_net48.dll|42d8c3db01084b37b01fcdac1fece8474e90739b28c7c61451f19ea77080d12d
+net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/CheckLinks-releases/main/v1.11.0/CheckLinks_net8.dll|6078386518dee78e150376e5bb52c48b66bd5da892c9177ec02d8688a83b5919
+note=No pasting or dragging: when a check finishes, the Segregation Manager website opens and picks up the results by itself, then asks which project to update or whether to create a new one (website v1.37+). The results are offered only on this PC (127.0.0.1), with a one-time code, for 10 minutes.
