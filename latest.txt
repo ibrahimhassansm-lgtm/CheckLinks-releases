@@ -1,4 +1,7 @@
-version=1.12.0
-net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/CheckLinks-releases/main/v1.12.0/CheckLinks_net48.dll|a72f9a102462b9df668af90a51a4abe8e0bbd6ee06010e359657a506686b7937
-net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/CheckLinks-releases/main/v1.12.0/CheckLinks_net8.dll|0485a64d294591319cafccfea926eef0919a0c5e98cc501c4506bde3a3abeb14
-note=Cleaner window in the Segregation Manager colours: summary tiles (models read, links, Overlay, Attachment, failed), live status per model while checking, tree icons, settings folded away, and a Show/Hide log button.
+version=1.13.0
+net48=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/CheckLinks-releases/main/v1.13.0/CheckLinks_net48.dll|eb933c1c0597320b0b8d6430c8366586db537e48ffc78724e870fa284ed22c28
+net8=https://raw.githubusercontent.com/ibrahimhassansm-lgtm/CheckLinks-releases/main/v1.13.0/CheckLinks_net8.dll|d1e9c28794d53e9b00d0f887adf5e3dc3a1837f0fce8f69de4e9d1d3f1139bc0
+note=Asks before updating: when Check Links opens and a new version is on GitHub, a window shows what's new and offers Update now / Later / Skip this version. Nothing is installed without your OK.
+note="Check for updates" link at the bottom right of the window, and "Update log" to see every check and install.
+note=After an update, close the window and click Check Links again – no Revit restart.
+note=Needs this setup once (new loader); after that updates come from inside the add-in.
